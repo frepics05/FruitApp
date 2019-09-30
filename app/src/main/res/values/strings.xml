@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MengenalBuah</string>
+    <string name="Judul">Penjelasan Tentang Buah Dan Asalnya</string>
+    <string name="SubJudul">Buah Lokal / Buah Non-Lokal</string>
+    <string name="about">About</string>
+    <string name="Nama">Nama : Hilmi Raditya Ramadhan</string>
+    <string name="Instagram">Instagram : frepics_05</string>
+    <string name="Github">Github : frepics05</string>
+    <string name="Gmail">Gmail : frepics.05@gmail.com</string>
+    <string name="penjelasan">Penjelasan</string>
+    <string name="JudulDetail">Judul</string>
+</resources>
