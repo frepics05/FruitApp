@@ -112,6 +112,10 @@ public class DetailActivity extends AppCompatActivity {
                     "\n" +
                     "Buahnya bertipe buni, memiliki kulit lembut tak rata berwarna hijau tua hingga ungu kecoklatan, tergantung pada varietasnya. Daging buah apokat berwarna hijau muda dekat kulit dan kuning muda dekat biji, dengan tekstur lembut.");
             gambar.setImageResource(R.drawable.alpukat);
+        } else if (idBuah.equals("11")){
+            txtJudul.setText("Pisang");
+            txtPenjelas.setText("Pisang itu adalah 'itu'");
+            gambar.setImageResource(R.mipmap.ic_launcher);
         }
     }
 }
