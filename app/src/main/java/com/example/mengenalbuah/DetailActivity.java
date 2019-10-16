@@ -35,7 +35,7 @@ public class DetailActivity extends AppCompatActivity {
                     "\n" +
                     "Asal jeruk adalah dari Asia Timur dan Asia Tenggara, membentuk sebuah busur yang membentang dari Jepang terus ke selatan hingga kemudian membelok ke barat ke arah India bagian timur. Jeruk manis dan sitrun (lemon) berasal dari Asia Timur, sedangkan jeruk bali, jeruk nipis dan jeruk purut berasal dari Asia Tenggara.\n" +
                     "\n" +
-                    "Banyak anggota jeruk yang dimanfaatkan oleh manusia sebagai bahan pangan, wewangian, maupun industri. Buah jeruk adalah sumber vitamin C dan wewangian/parfum penting. Daunnya juga digunakan sebagai rempah-rempah.");
+                    "Banyak anggota jeruk yang dimanfaatkan oleh manusia sebagai bahan pangan, wewangian, maupun industri. Buah jeruk adalah sumber vitamin C dan wewangian/parfum penting. Daunnya juga digunakan sebagai rempah-rempah. Biasanya jeruk banyak dimanfaatkan oleh manusia dengan cara diolah, dijadikan bahan pangan, dll");
             gambar.setImageResource(R.drawable.jeruk);
 
         }else if (idBuah.equals("2")){
